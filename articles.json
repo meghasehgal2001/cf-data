@@ -39,7 +39,7 @@
     {
       "title": "Some tips to consider while problem-solving",
       "author": "mehedi17n",
-      "content": "Some tips to consider while problem-solving:\n\n - If an input array is sorted then Binary search Two pointers\n\n - If asked for all permutations/subsets then Backtracking\n\n - If given a tree then DFS BFS\n\n - If given a graph then DFS BFS\n\n - If given a linked list then Two pointers\n\n - If recursion is banned then Stack\n\n - If must solve in-place then Swap corresponding values Store one or more different values in the same pointer\n\n - If asked for maximum/minimum subarray/subset/options then Dynamic programming\n\n - If asked for top/least K items then Heap\n\n - If asked for common strings then Map Trie\n\nElse Map/Set for O(1) time & O(n) space Sort input for O(nlogn) time and O(1) space",
+      "content": "Some tips to consider while problem-solving:\n - If an input array is sorted then Binary search Two pointers\n - If asked for all permutations/subsets then Backtracking\n - If given a tree then DFS BFS\n - If given a graph then DFS BFS\n - If given a linked list then Two pointers\n - If recursion is banned then Stack\n - If must solve in-place then Swap corresponding values Store one or more different values in the same pointer\n - If asked for maximum/minimum subarray/subset/options then Dynamic programming\n - If asked for top/least K items then Heap\n - If asked for common strings then Map Trie\nElse Map/Set for O(1) time & O(n) space Sort input for O(nlogn) time and O(1) space",
       "tags": ["problem solving", "cp"]
     },
     {
